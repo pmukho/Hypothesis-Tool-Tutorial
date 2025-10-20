@@ -1,2 +1,5 @@
 hypothesis/
 .hypothesis/
+.venv
+.DS_Store
+.python-version

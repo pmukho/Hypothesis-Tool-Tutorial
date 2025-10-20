@@ -8,11 +8,11 @@
 
 * .....
 
-## More Features (filters, combining strategies, `data()`) — **Pritam**
+## Filtering and Transformations (`.filter()`, `assume`, `map()`) — **Pritam**
 
 * .....
 
-## Custom & Composite Strategies, `assume()` — **Ingrid**
+## Custom & Composite Strategies, `data()` — **Ingrid**
 
 * .....
 
