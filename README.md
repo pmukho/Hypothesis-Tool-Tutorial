@@ -8,7 +8,7 @@
 
 * .....
 
-## Filtering and Transformations (`.filter()`, `assume`, `map()`) — **Pritam**
+## Filtering and Transformations (`.filter()`, `assume`, `.map()`) — **Pritam**
 
 * .....
 
